@@ -1,0 +1,51 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     weatherDataExcel3
+Instances:    1095
+Attributes:   5
+              ﻿Date
+              MinTemp
+              MaxTemp
+              MinDew
+              MaxDew
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Linear Node 0
+    Inputs    Weights
+    Threshold    -0.8267526759110566
+    Node 1    1.3298151827377707
+    Node 2    1.4050641346165367
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -3.092140402798021
+    Attrib ﻿Date    -0.01563828055209959
+    Attrib MinTemp    0.6705839912666043
+    Attrib MaxTemp    -0.5164071170754228
+    Attrib MinDew    2.0640731509917023
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    0.5666686040467948
+    Attrib ﻿Date    0.10221313353719041
+    Attrib MinTemp    0.41945752305834866
+    Attrib MaxTemp    0.9178376081591618
+    Attrib MinDew    1.558460699770617
+Class 
+    Input
+    Node 0
+
+
+Time taken to build model: 0.2 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9465
+Mean absolute error                      4.6103
+Root mean squared error                  5.8438
+Relative absolute error                 30.0566 %
+Root relative squared error             32.5626 %
+Total Number of Instances             1095     
+
