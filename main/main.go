@@ -13,7 +13,7 @@ type DataAndAlgo struct {
 
 func hitAndMiss(f *os.File, algo DataAndAlgo) {
 	var hit, miss int
-	f.WriteString("\nHit and Miss Data for" + algo.algoName + "\nCW\t\tH\t\tM")
+	f.WriteString("\nHit and Miss Data for " + algo.algoName + "\nCW\t\tH\t\tM")
 
 	for _, i := range algo.algoData {
 		if i <= 5 {

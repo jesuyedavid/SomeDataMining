@@ -1,8 +1,7 @@
 
-Hit and Miss Data forMultiLayerPerceptron
+Hit and Miss Data for MultiLayerPerceptron
 CW		H		M
 5		23		349
 10		130		242
 15		161		211
 15+		58		314
-
