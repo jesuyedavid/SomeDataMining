@@ -28,7 +28,7 @@ func hitAndMiss(f *os.File, algo DataAndAlgo) {
 	miss = 0
 
 	for _, i := range algo.algoData {
-		if i > 5 && i < 10 {
+		if i <= 10 {
 			hit++
 		} else {
 			miss++
@@ -39,7 +39,7 @@ func hitAndMiss(f *os.File, algo DataAndAlgo) {
 	miss = 0
 
 	for _, i := range algo.algoData {
-		if i >= 10 && i <= 15 {
+		if i <= 15 {
 			hit++
 		} else {
 			miss++
