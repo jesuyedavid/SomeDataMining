@@ -1,0 +1,58 @@
+<<<<<<< HEAD
+=======
+Hit and Miss Data forMultiScheme
+CW		H		M
+5		6		366
+10		27		345
+15		42		330
+15+		297		75
+
+Hit and Miss Data for MultilayerPerceptron
+CW		H		M
+5		23		349
+10		130		242
+15		161		211
+15+		58		314
+
+Hit and Miss Data for SMOReg
+CW		H		M
+5		50		322
+10		157		215
+15		126		246
+15+		39		333
+
+Hit and Miss Data for LR
+CW		H		M
+5		54		318
+10		139		233
+15		102		270
+15+		77		295
+
+Hit and Miss Data forKST
+CW		H		M
+5		46		326
+10		160		212
+15		116		256
+15+		50		322
+
+Hit and Miss Data for REPTD
+CW		H		M
+5		43		329
+10		144		228
+15		114		258
+15+		71		301
+
+Hit and Miss Data for RF
+CW		H		M
+5		49		323
+10		151		221
+15		112		260
+15+		60		312
+
+Hit and Miss Data for M5P
+CW		H		M
+5		49		323
+10		151		221
+15		131		241
+15+		41		331
+>>>>>>> 8dc5997e229b037a2ba6187af4944a336e8c6ec1
