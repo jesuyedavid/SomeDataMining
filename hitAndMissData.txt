@@ -5,15 +5,12 @@ CW		H		M
 15		331		41
 15+		41		331
 
-
 Hit and Miss Data for Multilayer Perceptron
 CW		H		M
 5		23		349
 10		153		219
 15		314		58
 15+		58		314
-
-
 
 Hit and Miss Data for MultiScheme
 CW		H		M
@@ -56,3 +53,24 @@ CW		H		M
 10		200		172
 15		312		60
 15+		60		312
+
+Hit and Miss Data for RBD
+CW		H		M
+5		38		334
+10		163		209
+15		294		78
+15+		78		294
+
+Hit and Miss Data for RandC
+CW		H		M
+5		46		326
+10		167		205
+15		281		91
+15+		91		281
+
+Hit and Miss Data for RandSS
+CW		H		M
+5		48		324
+10		200		172
+15		320		52
+15+		52		320
